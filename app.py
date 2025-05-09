@@ -113,4 +113,4 @@ st.pyplot(fig)
 
 # Footer
 st.markdown("<hr style='border-top: 1px solid lightgrey;' />", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center; color: grey;'>Made with ❤️ by Yashaswini Guntupalli</h4>", unsafe_allow_html=True)
+# st.markdown("<h4 style='text-align: center; color: grey;'>Made with ❤️ by Yashaswini Guntupalli</h4>", unsafe_allow_html=True)
